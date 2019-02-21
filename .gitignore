@@ -1,1 +1,11 @@
-node_modules
+# Logs
+logs
+*.log
+npm-debug.log*
+
+build/Release
+
+# Optional npm cache directory
+.npm
+
+node_modules/
